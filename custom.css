@@ -1,0 +1,29 @@
+.danhMuc{
+	color:#4B4F56;
+	margin-top:5px;
+}
+
+body {
+	background-color: #E9EBEE;
+}
+
+html {
+	background-color:#E9EBEE;
+}
+
+.bg-normal{
+	background-color: #E9EBEE;
+}
+
+}
+#mainNav .navbar-collapse .navbar-sidenav > .nav-item > .nav-link:focus, .nav-link:hover {
+        background-color: white;}
+
+#mainNav.navbar-dark .navbar-collapse .navbar-sidenav > .nav-item > .nav-link:hover, .nav-link:focus, .nav-link:active {
+    background-color: white;
+}
+#mainNav .navbar-collapse .navbar-nav > .nav-item.dropdown > .nav-link {
+	background-color: #563D7C;
+}
+
+#mainNav .navbar-collapse .navbar-nav .nav-item .nav-link 
